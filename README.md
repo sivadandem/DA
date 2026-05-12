@@ -1,153 +1,90 @@
-# 📦 Supply Chain Analytics Project
+# 📦 Supply Chain Data Analytics Project
 
-An end-to-end Data Analytics project focused on analyzing supply chain operations, customer purchasing behavior, sales trends, inventory management, and shipping performance using Python, SQL, and Power BI.
+An end-to-end exploratory data analysis project focused on understanding supply chain operations, customer purchasing behavior, product sales, and shipping trends using Python.
 
 ---
 
 # 🚀 Project Overview
 
-This project simulates a real-world business analytics workflow by working with a large supply chain dataset containing customer transactions, product information, shipping details, and sales records.
+This project analyzes a large supply chain dataset containing customer transactions, product details, sales information, and shipping records.
 
-The goal of this project is to uncover actionable business insights that can help improve:
+The main objective is to extract meaningful business insights that can help improve:
 
-- Customer understanding
 - Sales performance
-- Inventory planning
-- Shipping efficiency
-- Product profitability
+- Customer understanding
+- Product analysis
+- Shipping operations
 - Business decision-making
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technologies Used
 
-## Programming & Analysis
 - Python
 - Pandas
 - NumPy
-
-## Data Visualization
 - Matplotlib
 - Seaborn
-- Power BI
-
-## Database
-- SQL
-- PostgreSQL / SQLite
-
-## Development Tools
 - Jupyter Notebook
 - VS Code
 - Git & GitHub
 
 ---
 
-# 📊 Key Analysis Performed
+# 📊 Analysis Performed
+
+## 🔹 Data Cleaning
+- Handling missing values
+- Removing duplicates
+- Data type corrections
+- Basic preprocessing
 
 ## 🔹 Exploratory Data Analysis (EDA)
-- Data cleaning
-- Missing value handling
-- Duplicate removal
+- Statistical summaries
+- Distribution analysis
+- Correlation analysis
 - Outlier detection
-- Statistical analysis
 
 ## 🔹 Customer Analysis
-- Customer purchase patterns
-- High-value customers
-- Regional customer behavior
+- Customer purchasing behavior
+- Customer spending patterns
 
 ## 🔹 Product Analysis
 - Top-selling products
 - Product category performance
-- Revenue contribution analysis
 
 ## 🔹 Sales Analysis
-- Monthly sales trends
-- Revenue analysis
-- Profitability insights
+- Revenue trends
+- Sales distribution
+- Order analysis
 
-## 🔹 Shipping & Logistics Analysis
-- Shipping modes analysis
-- Delivery performance
-- Order status analysis
+## 🔹 Shipping Analysis
+- Shipping modes used
+- Delivery trend analysis
 
-## 🔹 Inventory & Supply Chain Insights
-- Inventory movement
-- Vendor performance
-- Supply chain optimization insights
 
 ---
 
-# 📂 Project Structure
+# 📈 Key Insights
 
-```bash
-Supply-Chain-Analytics/
-│
-├── data/
-│   ├── raw_dataset.csv
-│   ├── cleaned_dataset.csv
-│
-├── notebooks/
-│   ├── eda.ipynb
-│   ├── analysis.ipynb
-│
-├── sql/
-│   ├── queries.sql
-│
-├── dashboard/
-│   ├── powerbi_dashboard.pbix
-│
-├── images/
-│   ├── dashboard.png
-│
-├── README.md
-```
+- Identified top-performing products
+- Analyzed customer purchasing trends
+- Explored sales distribution patterns
+- Studied shipping and delivery behaviors
+- Found relationships between sales-related variables
 
 ---
 
-# 📈 Business Questions Solved
+# 🎯 Learning Outcomes
 
-- Which products generate the highest revenue?
-- Which regions have maximum sales?
-- What are the most used shipping methods?
-- Which customers contribute the most revenue?
-- Which product categories perform best?
-- How can inventory management be improved?
+Through this project, I practiced:
 
----
+- Real-world data cleaning
+- Exploratory Data Analysis
+- Data visualization
+- Business insight generation
+- Working with large datasets using Pandas
 
-# 📌 Key Insights
-
-- Identified high-performing product categories
-- Found customer purchasing trends
-- Analyzed shipping delays and delivery patterns
-- Detected revenue-driving regions and products
-- Generated insights for operational optimization
-
----
-
-# 📷 Dashboard Preview
-
-_Add Power BI dashboard screenshots here_
-
----
-
-# 🔥 Future Improvements
-
-- Build machine learning forecasting models
-- Deploy interactive dashboards online
-- Add real-time analytics
-- Create automated ETL pipelines
-
----
-
-# 🤝 Connect With Me
-
-## 👨🏻‍💻 Author
-Siva Dandem
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
 
